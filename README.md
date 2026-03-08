@@ -1,16 +1,25 @@
 
-# Hi, I'm Manish 👋
+# Manish Prajapati | Senior Full Stack & Big Data Engineer 👋
+Pune, India | M.Sc. in Object Oriented Systems (London, UK)
 
 Senior Full Stack / Platform Engineer with 20+ years of experience building reliable distributed systems in regulated environments.
 
-Currently working in Market Risk Technology at a leading global investment bank.
+Currently working in Risk Finance & Technology (RFT) at a leading global investment bank.
 
-## What I Specialize In
+## 🏆Professional Highlights
 
-- Modernizing legacy platforms into cloud-ready microservices
-- Designing clean, maintainable backend architectures
-- Building event-driven data platforms using Kafka and Spark
-- Delivering production-grade systems on Kubernetes / OpenShift
+- **India Excellence Award (Deutsche Bank):** Recognized for innovation and significant cost savings (€100k+ annually) by leading a major vendor disengagement initiative within Risk Finance Technology .   
+- **Domain Impact:** Designed and delivered distributed systems resolving critical production issues impacting €600m RWA exposure.
+- **Academic Foundation:** Earned my Master of Science from London South Bank University, UK   
+
+
+## 🛠 Technical Specialization
+
+- **Modernization:** Transitioning legacy batch systems to Spark + Kafka distributed architectures.   
+- **Backend:** Java 17, Spring Boot, Hibernate, Hazelcast, Microservices.   
+- **Big Data:** Apache Spark, Scala 3, Kafka, Hive, HDFS.   
+- **Full Stack:** React, Angular, TypeScript, HTML5/CSS3.   
+- **Cloud & DevOps:** Kubernetes, OpenShift, Docker, Jenkins CI/CD, Helm Charts.
 
 ## Why This GitHub Exists
 
@@ -21,6 +30,12 @@ This repository instead focuses on:
 - Engineering decision records
 - Modernization strategies
 - Production lessons learned
+
+## 📁 Featured Project: [DB_Hercules](https://github.com/mandp80/DB_Hercules)
+This repository showcases the high-level design and architectural decisions involved in modernizing a complex banking ecosystem.
+- Includes Mermaid diagrams for system flow.
+- Features Architectural Decision Records (ADRs) on tech-stack migration.
+- Details the transition from legacy thick client stacks to Cloud-Native REST platforms
 
 ## Key Focus Areas
 
