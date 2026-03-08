@@ -37,13 +37,6 @@ This repository showcases the high-level design and architectural decisions invo
 - Features Architectural Decision Records (ADRs) on tech-stack migration.
 - Details the transition from legacy thick client stacks to Cloud-Native REST platforms
 
-## Key Focus Areas
-
-- Enterprise Java (Spring Boot, distributed systems)
-- Event-driven architectures
-- Platform reliability and scalability
-- Cloud-native transformation
-
 ## Currently Exploring
 
 - Opportunities in Finland and the Nordic region where reliability, simplicity, and engineering craftsmanship are valued.
