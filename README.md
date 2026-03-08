@@ -8,9 +8,9 @@ Currently working in Risk Finance & Technology (RFT) at a leading global investm
 
 ## 🏆Professional Highlights
 
-- **India Excellence Award (Deutsche Bank):** Recognized for innovation and significant cost savings (€100k+ annually) by leading a major vendor disengagement initiative within Risk Finance Technology .   
-- **Domain Impact:** Designed and delivered distributed systems resolving critical production issues impacting €600m RWA exposure.
-- **Academic Foundation:** Earned my Master of Science from London South Bank University, UK   
+- **India Excellence Award (Deutsche Bank):** Recognized for innovation and significant **cost savings (€100k+ annually)** by leading a major vendor disengagement initiative within Risk Finance Technology .   
+- **Domain Impact:** Designed and delivered distributed systems resolving critical **production issues impacting €600m RWA exposure**.
+- **Academic Foundation:** Earned my Master of Science from **London South Bank University, UK.**  
 
 
 ## 🛠 Technical Specialization
