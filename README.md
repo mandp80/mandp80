@@ -1,5 +1,5 @@
 
-# Manish Prajapati | Senior Full Stack & Big Data Engineer 👋
+# Manish Prajapati | Senior Full Stack & Platform Engineer 👋
 Pune, India | M.Sc. in Object Oriented Systems (London, UK)
 
 Senior Full Stack / Platform Engineer with 20+ years of experience building reliable distributed systems in regulated environments.
@@ -40,7 +40,7 @@ This repository showcases the high-level design and architectural decisions invo
 ## Currently Exploring
 
 - Opportunities in Finland and the Nordic region where reliability, simplicity, and engineering craftsmanship are valued.
-- 🌱 I’m currently learning **GCP, Spring AI**
+- 🌱 I’m currently learning **AI Assisted Development tools, Vaadin, Spring AI**
 
 ## Let's Connect
 
