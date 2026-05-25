@@ -1,5 +1,5 @@
 
-# Manish Prajapati | Senior Full Stack & Platform Engineer 👋
+# Manish Prajapati | Lead Full Stack & Platform Engineer 👋
 Pune, India | M.Sc. in Object Oriented Systems (London, UK)
 
 Senior Full Stack / Platform Engineer with 20+ years of experience building reliable distributed systems in regulated environments.
