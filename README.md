@@ -9,7 +9,7 @@ Currently working in Risk Finance & Technology (RFT) at a leading global investm
 ## 🏆Professional Highlights
 
 - **India Excellence Award (Deutsche Bank):** Recognized for innovation and significant **cost savings (€100k+ annually)** by leading a major vendor disengagement initiative within Risk Finance Technology .   
-- **Domain Impact:** Designed and delivered distributed systems resolving critical **production issues impacting €600m RWA exposure**.
+- **Domain Impact:** Designed and delivered distributed systems resolving critical **production issues impacting €600m Risk exposure**.
 - **Academic Foundation:** Earned my Master of Science from **London South Bank University, UK.**  
 
 
@@ -23,9 +23,8 @@ Currently working in Risk Finance & Technology (RFT) at a leading global investm
 
 ## Why This GitHub Exists
 
-Due to working in regulated banking environments, I cannot share proprietary code.
+Due to working in regulated banking environments, This repository focuses only on:
 
-This repository instead focuses on:
 - Architecture blueprints
 - Engineering decision records
 - Modernization strategies
