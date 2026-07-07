@@ -40,11 +40,11 @@ This repository showcases the high-level design and architectural decisions invo
 ## Currently Exploring
 
 - Opportunities in Finland and the Nordic region where reliability, simplicity, and engineering craftsmanship are valued.
-- 🌱 I’m currently learning **AI Assisted Development tools, Vaadin, Spring AI**
+- 🌱 I’m currently learning **AI Assisted Development tools, OpenSpec**
 
 ## Let's Connect
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Spring, Full-stack Solution Design and Architecture**
 - 📫 How to reach me **mandp80@yahoo.com**
 - 📄 Know about my experiences:  <a href="https://linkedin.com/in/manishkumar-prajapati-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishkumar-prajapati-pro" height="30" width="40" /></a>
 
